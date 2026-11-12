@@ -19,8 +19,6 @@ Built at ETHGlobal Mumbai 2026, from scratch.
 | **Live app** | https://earlyout.vercel.app (Arc testnet, chain `5042002`) |
 | **Arc Studio project** | https://studio.arc.io/app/b9396e35-441e-4180-9444-965d2ad5dc59 |
 | **Repository** | https://github.com/VamshiBilla07/Ethglobal.mumbai-26 |
-| **ETHGlobal showcase & video** | https://ethglobal.com/showcase/earlyout-sa4m0 |
-| **Vault contract** | [`0x7A40b36b012DC19b1f42dd68C13F4daE312e2319`](https://explorer.testnet.arc.io/address/0x7A40b36b012DC19b1f42dd68C13F4daE312e2319) |
 | **Example transaction** | Sale paid in USDC in one transaction: [`0x12aefa…`](https://explorer.testnet.arc.io/tx/0x12aefa9df1553daadc4c026566387f0fdde7cf9af6a0153a5eac5e141973a5ee) |
 
 ### Partner Prizes Applied For
