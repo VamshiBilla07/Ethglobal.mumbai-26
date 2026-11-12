@@ -22,7 +22,6 @@ Built at ETHGlobal Mumbai 2026, from scratch.
 | **ETHGlobal showcase & video** | https://ethglobal.com/showcase/earlyout-sa4m0 |
 | **Vault contract** | [`0x7A40b36b012DC19b1f42dd68C13F4daE312e2319`](https://explorer.testnet.arc.io/address/0x7A40b36b012DC19b1f42dd68C13F4daE312e2319) |
 | **Example transaction** | Sale paid in USDC in one transaction: [`0x12aefa…`](https://explorer.testnet.arc.io/tx/0x12aefa9df1553daadc4c026566387f0fdde7cf9af6a0153a5eac5e141973a5ee) |
-| **Builders** | Satyam Sharma: GitHub [@SatyamDev803](https://github.com/SatyamDev803), X [@Satyam_S1603](https://x.com/Satyam_S1603) · Dex: GitHub [@dexalien](https://github.com/dexalien), X [@dextroalien](https://x.com/dextroalien) · Shreyas Thakur: GitHub [@ShreyasThakur0809](https://github.com/ShreyasThakur0809), X [@Shreyas__Thakur](https://x.com/Shreyas__Thakur) |
 
 ### Partner Prizes Applied For
 
